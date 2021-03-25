@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: crimson;
+}
+.result {
+  background-color: rgb(160, 127, 134);
+  color: white;
+  font-size: 18px;
+  margin-left: 45%;
+  margin-top: 10px;
+}
+h3:hover {
+  cursor: pointer;
+  color: yellow;
+}
+button {
+  background-color: cornsilk;
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  margin-left: 25%;
+  margin-top: 40px;
+}
+button:hover {
+  background-color: yellowgreen;
+  cursor: pointer;
+  color: fff;
+}
+h1 {
+  text-align: center;
+  color: cornsilk;
+}
+.button {
+  display: flex;
+}
